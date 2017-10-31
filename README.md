@@ -1,2 +1,3 @@
 # ScrambleSquares
 Puzzle solver to find solutions to Scramble Squares
+Or not. We'll see...
